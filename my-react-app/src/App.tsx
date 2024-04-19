@@ -105,7 +105,7 @@ function App() {
             <br />
             <img src="/bash-tsc.png" alt="tsc main.ts" />
             <p>
-              This creates a JavaScript file (e.g., main.js) containing the
+              This creates a JavaScript file (e.g. main.js) containing the
               compiled code.
             </p>
           </li>
