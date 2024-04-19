@@ -127,12 +127,12 @@ function App() {
             </a>
           </li>
           <li>
-            Interactive tutorials:{" "}
+            Interactive tutorials by TypeScript:{" "}
             <a href="https://www.typescriptlang.org/docs" target="_blank">
               https://www.typescriptlang.org/docs
             </a>
           </li>
-          <li>Online courses and tutorials</li>
+          <li>Other online courses and tutorials such as <a href="https://exercism.org/tracks/typescript" target="_blank">Exercism</a> and <a href="https://www.codecademy.com/enrolled/courses/learn-typescript" target="_blank">Codecademy</a>.</li>
         </ul>
 
         <p>
