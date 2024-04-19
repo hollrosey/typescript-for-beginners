@@ -21,7 +21,7 @@ h2 {
 img {
     border-radius: 5px;
     margin: 10px 0;
-   
+    max-width: 90vw;
   }
 
 
