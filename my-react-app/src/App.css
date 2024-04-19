@@ -1,0 +1,21 @@
+* {
+    background-color: #E6EBE0;
+    color: #1e1f20;
+}
+body {
+    font-family: 'Arial';
+    margin: 50px 50px;
+}
+
+img {
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+ul, ol {
+    margin: 0 30px;
+}
