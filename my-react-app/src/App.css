@@ -21,9 +21,12 @@ h2 {
 img {
     border-radius: 5px;
     margin: 10px 0;
-}
+   
+  }
 
-ul, ol {
-    margin: 0 30px;
-}
 
+@media only screen and (min-width: 768px) {
+    ul, ol {
+        margin: 0 30px;
+    }
+}
