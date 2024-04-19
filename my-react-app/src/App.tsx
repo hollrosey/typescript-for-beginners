@@ -48,7 +48,7 @@ function App() {
             <b>Install TypeScript:</b> Open your terminal and run the following
             command:
             <br />
-            <img src="/bash-npm-i.png" alt="" />
+            <img src="/bash-npm-i.png" alt="npm install -g typescript" />
             <p>This installs TypeScript globally on your system.</p>
           </li>
           <li>
@@ -56,7 +56,7 @@ function App() {
             terminal to create a new project directory. Inside this directory,
             initialise a new npm project by running:
             <br />
-            <img src="/npm-init.png" alt="" />
+            <img src="/npm-init.png" alt="npm init -y" />
             <p>This creates a package.json file for your project.</p>
           </li>
         </ol>
@@ -69,7 +69,7 @@ function App() {
             types of your variables. This can be numbers, strings, booleans, or
             even custom types we create.
             <br />
-            <img src="/ts-variables.png" alt="" />
+            <img src="/ts-variables.png" alt=" Two variables, one a number amd one a string." />
           </li>
           <li>
             <b>Type Annotations:</b> We use a colon (:) followed by the type
@@ -79,13 +79,13 @@ function App() {
             <b>Simple Functions:</b> Functions in TypeScript can also have type
             annotations for their parameters and return values.
             <br />
-            <img src="/function.png" alt="" />
+            <img src="/function.png" alt="A simple TypeScript function." />
           </li>
           <li>
             <b>Interfaces:</b> Interfaces define the structure of objects. They
             specify which properties an object should have and their types.
             <br />
-            <img src="/interface.png" alt="" />
+            <img src="/interface.png" alt="Showing a TypeScript interface and then an object." />
           </li>
         </ul>
 
@@ -103,7 +103,7 @@ function App() {
             In your terminal, navigate to the directory containing your
             TypeScript file and run:
             <br />
-            <img src="/bash-tsc.png" alt="" />
+            <img src="/bash-tsc.png" alt="tsc main.ts" />
             <p>
               This creates a JavaScript file (e.g., main.js) containing the
               compiled code.
