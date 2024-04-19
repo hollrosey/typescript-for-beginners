@@ -69,7 +69,10 @@ function App() {
             types of your variables. This can be numbers, strings, booleans, or
             even custom types we create.
             <br />
-            <img src="/ts-variables.png" alt=" Two variables, one a number amd one a string." />
+            <img
+              src="/ts-variables.png"
+              alt=" Two variables, one a number amd one a string."
+            />
           </li>
           <li>
             <b>Type Annotations:</b> We use a colon (:) followed by the type
@@ -85,7 +88,10 @@ function App() {
             <b>Interfaces:</b> Interfaces define the structure of objects. They
             specify which properties an object should have and their types.
             <br />
-            <img src="/interface.png" alt="Showing a TypeScript interface and then an object." />
+            <img
+              src="/interface.png"
+              alt="Showing a TypeScript interface and then an object."
+            />
           </li>
         </ul>
 
@@ -132,7 +138,20 @@ function App() {
               https://www.typescriptlang.org/docs
             </a>
           </li>
-          <li>Other online courses and tutorials such as <a href="https://exercism.org/tracks/typescript" target="_blank">Exercism</a> and <a href="https://www.codecademy.com/enrolled/courses/learn-typescript" target="_blank">Codecademy</a>.</li>
+          <li>
+            Other online courses and tutorials such as{" "}
+            <a href="https://exercism.org/tracks/typescript" target="_blank">
+              Exercism
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://www.codecademy.com/enrolled/courses/learn-typescript"
+              target="_blank"
+            >
+              Codecademy
+            </a>
+            .
+          </li>
         </ul>
 
         <p>
@@ -149,6 +168,10 @@ function App() {
           </a>{" "}
           to write and run TypeScript code directly in your browser.
         </p>
+        <h2>
+          Stay tuned for my next tutorial, a TypeScript Rock, Paper, Scissors
+          app!
+        </h2>
       </body>
     </>
   );
